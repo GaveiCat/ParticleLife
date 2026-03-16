@@ -1,7 +1,13 @@
 # ParticleLife
 
+<<<<<<< HEAD
 **ТРЕБУЕТ:** 21 JAVA, путь к её корневой папке должен быть указан в системной переменной `JAVA_HOME`.  
 **ТРЕБУЕТ:** `javafx-sdk-21.0.5`, путь к папке должен быть указан в системной переменной `JAVAFX`.  
+=======
+**ТРЕБУЕТ:** 21 JAVA, путь к её корневой папке должен быть указан в системной переменной `JAVA_HOME`.
+СКАЧАТЬ JAVA https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html  
+**ТРЕБУЕТ:** `javafx-sdk-21.0.5`, путь к папке должен быть указан в системной переменной `JAVAFX`.  СКАЧАТЬ JAVAFX https://drive.google.com/drive/folders/1i1x1uyQVCpsp4BdKwlYUWeFbQ_RkbIpy?usp=drive_link
+>>>>>>> c35d84f (Ластовая)
 
 - Крути колесико мыши, чтобы увеличивать/уменьшать размер кисти.  
 - ПКМ, чтобы переключиться на стандартный инструмент.  
